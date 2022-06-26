@@ -31,5 +31,5 @@ jobs:
           host: ${{ secrets.HOST }}
           port: ${{ secrets.PORT }}
           key: ${{ secrets.KEY }}
-          source: "public/*"
-          target: "homepage/"
+          source: ${{ secrets.SOURCE }}
+          target: ${{ secrets.TARGET }}
