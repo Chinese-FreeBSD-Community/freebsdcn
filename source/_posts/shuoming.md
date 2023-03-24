@@ -34,6 +34,10 @@ tags:
 
 <https://book.bsdcn.org/di-22-zhang-bian-cheng-yu-kai-fa/di-22.2-jie-ru-he-ti-jiao-yi-ge-ruan-jian-bao.html>
 
+## 社区黑名单与失信名单
+
+见 <http://chinafreebsd.org/> 。
+
 ## 复杂版本
 
 |                    问题                    |                                                                                                                    答案                                                                                                                    |
