@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD 中文社区
 
 ### this variable is MarkDown form.
-description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。 <br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br>Telegram 群https://t.me/freebsdba  QQ 群 787969044<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br>公众号 FreeBSD中文<br><a href="https://book.bsdcn.org/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.5-jie-freebsd-shang-biao-bei-qiang-zhu-yi-shi-wei-jie-jue.html">我们反对任何形式的滥用商标注册行为！见 FreeBSD 商标被抢注一事（未解决）。</a><br>郑重声明：本站所有涉及到“FreeBSD”字样或“freebsd”，均使用了来自美国 FreeBSDFoundation 的商标，与他人无关。<br><br><br>
+description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。 <br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br>Telegram 群https://t.me/freebsdba  QQ 群 787969044<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br>公众号 FreeBSD中文<br><a href="https://book.bsdcn.org/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.5-jie-freebsd-shang-biao-bei-qiang-zhu-yi-shi-wei-jie-jue.html">我们反对任何形式的滥用商标注册行为！见 FreeBSD 商标被抢注一事（未解决）。</a><br>郑重声明：本站所有涉及到“FreeBSD”字样或“freebsd”，均使用了来自美国 FreeBSDFoundation 的商标，与他人无关。<br><br><br><br>
 avatar: /image/avatar.jpg
 
 # main menu navigation
