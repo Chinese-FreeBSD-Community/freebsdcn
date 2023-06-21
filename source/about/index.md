@@ -7,6 +7,12 @@ date: 2022-05-22 05:14:19
 
 **郑重声明：本站所有涉及到“FreeBSD”字样或“freebsd”，均使用了来自美国 FreeBSDFoundation 的商标，与他人无关。见 [FreeBSD 商标被抢注一事（未解决）](https://book.bsdcn.org/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.5-jie-freebsd-shang-biao-bei-qiang-zhu-yi-shi-wei-jie-jue.html)。**
 
+# 社区通知
+
+滚动更新，请随时关注。
+
+[点击此处查看社区最新通知。](https://book.bsdcn.org/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.0-jie-she-qu-tong-zhi-gun-dong-geng-xin.html)
+
 #   FreeBSD中文社区的愿景
 
 我们成立于 2018 年 3 月 17 日。由贴吧——FreeBSD吧发展到了QQ 群（验证群 787969044），Telegram 群，乃至于微信群。
